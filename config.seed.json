@@ -1,0 +1,84 @@
+{
+  "dbms": "mysql",
+  "db": "dataBaseName",
+  "user": "userName",
+  "process_number": 4,
+  "password": "pass",
+  "ignore": [
+    "table05",
+    "table10",
+  ],
+  "len_row": 100,
+  "equal": {
+    "column_top": 0,
+    "column_genre": "man",
+    "column10": 0,
+  },
+  "combine": {
+    "column_notes": {
+      "val": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "join": "; "
+    }
+  },
+  "border": {
+    "_def": [
+      0,
+      10000000
+    ]
+  },
+  "choice": {
+    "column_genre": [
+      "Man",
+      "Woman"
+    ],
+    "colums_status": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "column_password": [
+      "tes",
+      "sdf",
+      "dsf",
+      "a",
+      "q"
+    ],
+    "column_login": [
+      "test@mail.com",
+      "test@mail",
+      "tet@g",
+      "a@a",
+      "a@a.com",
+      "a@gmail.com",
+      "t@g",
+      "test@gmc",
+      "tes@gmai.com"
+    ]
+  },
+  "unit": {
+    "column_amount1": 10,
+    "column_amount2": 500,
+    "column_amount3": 10000
+  }
+}
